@@ -1,0 +1,1 @@
+<h1>Welcome to Laravel Training Course at TechAtrium</h1>

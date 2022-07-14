@@ -1,0 +1,20 @@
+main {
+    height: 100vh;
+}
+
+.header {
+    max-width: 800px;
+    /*min-height: 100vh;*/
+    background: rgba(114, 193, 141, 0.4);
+    margin: 0 auto;
+    padding: 5px 10px;
+}
+
+.tweet-feed {
+    max-width: 800px;
+    /*min-height: 100vh;*/
+    height: 100%;
+    background: rgba(114, 193, 141, 0.4);
+    margin: 0 auto;
+    padding: 5px 10px;
+}
